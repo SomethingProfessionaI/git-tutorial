@@ -1,0 +1,1 @@
+print("ni hao wo de peng you")
